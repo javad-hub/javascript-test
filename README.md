@@ -1,2 +1,2 @@
-# javascript-test:smile:
+# javascript-test:rofl:
 very rediculous test with javascript
